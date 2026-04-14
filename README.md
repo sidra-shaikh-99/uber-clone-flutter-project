@@ -1,5 +1,12 @@
 # 🚗 Uber Clone Flutter App
 
+---
+
+## 🌐 Live Demo
+
+https://sidra-uber-clone-flutter.netlify.app
+
+---
 A simple Uber-like app built using Flutter for a college project.  
 Includes basic ride booking flow with real map and clean UI.
 
@@ -33,12 +40,6 @@ Shows ride details like pickup, destination, car and price
 - Flutter  
 - Dart  
 - flutter_map (OpenStreetMap)
-
----
-
-## 🌐 Live Demo
-
-https://sidra-uber-clone-flutter.netlify.app
 
 ---
 
