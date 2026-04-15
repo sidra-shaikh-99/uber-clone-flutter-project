@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-https://sidra-uber-clone-flutter.netlify.app
+https://sidra-uberclone-flutter.netlify.app/
 
 ---
 A simple Uber-like app built using Flutter for a college project.  
